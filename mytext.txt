@@ -3,7 +3,10 @@ This is my “哈哈哈”
 This is my"啊啊啊"
 This is One
 This is Two
+<<<<<<< HEAD
 This is Three
 This is Four
 This is master
+This is Branch
+
 
